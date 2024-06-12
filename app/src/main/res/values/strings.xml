@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2023 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     https://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+    <string name="app_name">Bayrak Öğren</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="list_fragment_label">Bayrak Öğren</string>
+    <string name="detail_fragment_label">Ülkelere Geri Dön</string>
+
+    <string name="almanya">ALMANYA</string>
+    <string name="cin">ÇİN</string>
+    <string name="tunus">TUNUS</string>
+    <string name="abd">ABD</string>
+    <string name="brezilya">BREZİLYA</string>
+    <string name="avusturalya">AVUSTURALYA</string>
+    <string name="antartika">ANTARTİKA</string>
+
+    <string name="sports_list_subtitle">Ülke kısa genel</string>
+    <string name="sport_detail_text">
+        tüm ülkeler iç açıklama
+    </string>
+
+
+
+
+    ---------
+    <string name="almanyakisa">
+        Almanya hakkında her şeyi bulabilirsiniz
+    </string>
+    <string name="almanyauzun">
+        Almanya veya resmî ismiyle Almanya Federal Cumhuriyeti, Orta Avrupa\'da bulunan bir ülkedir. Kuzeyinde Kuzey Denizi, Danimarka ve Baltık Denizi, doğusunda Polonya ve Çekya, güneyinde Avusturya ve İsviçre, batısında Fransa, Lüksemburg, Belçika ve Hollanda bulunur.
+    </string>
+    ---------
+    <string name="cinkisa">
+        Çin hakkında her şeyi bulabilirsiniz
+    </string>
+    <string name="cinuzun">
+        Çin, resmî adı ile Çin Halk Cumhuriyeti, Doğu Asya\'da Çin Komünist Partisi tarafından tek parti rejimiyle yönetilen üniter egemen devlet.
+    </string>
+    ---------
+    <string name="tunusukisa">
+        Tunus hakkında her şeyi bulabilirsiniz
+    </string>
+    <string name="tunusuzun">
+        Tunus Cumhuriyeti kısaca Tunus, Kuzey Afrika\'da, Akdeniz\'e kıyısı olan bir ülkedir. Kurucusu Habib Burgiba\'dır. Batısında Cezayir, doğusunda Libya ve Akdeniz, Kuzeyinde de Akdeniz yer alır. Ülkenin güney kısmını Büyük Sahra Çölü kaplar
+    </string>
+    ---------
+    <string name="abdkisa">
+        ABD hakkında her şeyi bulabilirsiniz
+    </string>
+    <string name="abduzun">
+        Amerika Birleşik Devletleri, Birleşik Devletler veya resmî olmayan ismiyle Amerika, orta Kuzey Amerika\'da, Kanada ve Meksika arasında bulunan, elli eyalet ve bir federal bölgeden oluşan, federal anayasal cumhuriyet ile yönetilen bir ülkedir
+    </string>
+    ---------
+    <string name="brezilyakisa">
+        Brezilya hakkında her şeyi bulabilirsiniz
+    </string>
+    <string name="brezilyauzun">
+        Brezilya veya resmî adıyla Brezilya Federal Cumhuriyeti, Güney Amerika\'nın en büyük ve en kalabalık ülkesidir. Latin Amerika’nın %47,7’sini kaplayan Brezilya, Ekvador ve Şili haricinde Güney Amerika ülkelerinin hepsi ile sınır komşusudur
+    </string>
+    ---------
+    <string name="avusturalyakisa">
+        Avusturya hakkında her şeyi bulabilirsiniz
+    </string>
+    <string name="avusturalyauzun">
+        Avustralya ya da resmî adıyla Avustralya Milletler Topluluğu, Güney Yarımkürede yer alan kıta ülkesi. Hint Okyanusu ve Büyük Okyanus arasında uzanır. Okyanusya kıtasında bulunur ve kıtanın çok büyük bir bölümünü kaplar.
+    </string>
+    ---------
+    <string name="antartikakisa">
+        Antartika hakkında her şeyi bulabilirsiniz
+    </string>
+    <string name="antartikauzun">
+        Antarktika, Güney Yarımküre\'nin en güneyinde bulunan ve Güney Kutbu\'nu içeren kıta. Afrika ve Okyanusya\'nın güneyinde olan ve içinde ülke bulunmayan tek kıta. Dünyanın en kurak yeridir, kıtanın bazı yerlerine 2 milyon sene yağmur yağmamıştır.
+    </string>
+    ---------
+
+
+
+
+
+
+    <string name="back_button">Back</string>
+</resources>
